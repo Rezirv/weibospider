@@ -1,0 +1,2 @@
+# weibospider
+spider for weibo
